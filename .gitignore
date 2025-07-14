@@ -1,0 +1,4 @@
+# zig related
+.zig-cache
+zig-out
+zig
